@@ -19,7 +19,8 @@ Additional links:
 
 ENDOOM Mapping Contest 2025:
 - Doom Power ([Contest itself](https://i.iddqd.ru/viewtopic.php?t=2720), Results with maps: Still Waiting
-- 
+
+
 ![Screen1](./Screens/SCREEN1.jpg)
 ![Screen2](./Screens/SCREEN2.jpg)
 ![Screen3](./Screens/SCREEN3.jpg)
