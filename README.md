@@ -18,7 +18,8 @@ This version is no different in gameplay and balance than the one in the contest
 Additional links:
 
 ENDOOM Mapping Contest 2025:
-- Doom Power ([Contest itself](https://i.iddqd.ru/viewtopic.php?t=2720), Results with maps: Still Waiting
+- Doom Power ([Contest itself](https://i.iddqd.ru/viewtopic.php?t=2720))
+- Results with maps: Still Waiting
 
 
 ![Screen1](./Screens/SCREEN1.jpg)
